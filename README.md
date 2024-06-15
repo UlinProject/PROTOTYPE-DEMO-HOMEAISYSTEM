@@ -30,6 +30,8 @@ This project aims to replicate the functionality of Yandex's Alice smart speaker
 
 • Amlogic A311D2/A311D
 
+• Amlogic S922X
+
 • <i>Satisfactory ability to work on older platforms: based on Amlogic S912 (ARM Cortex-A53 x8 1.5Ghz(Unlocked)), 2GB DDR3, 1Gbit Eth, 2.4/5Ghz Wifi, CPU Mode; or Raspberry PI 4.</i>
 
 <img src="img/dev_device0.jpg" alt="mit" style="height: 135px; max-width: 100%;"/>
