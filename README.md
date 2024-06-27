@@ -36,3 +36,9 @@ This project aims to replicate the functionality of Yandex's Alice smart speaker
 
 <img src="img/dev_device0.jpg" alt="mit" style="height: 135px; max-width: 100%;"/>
 
+### Demonstration
+
+1. <a href="https://disk.yandex.ru/i/GBPuGDhcUAQvfA">[1]: Short info</a>
+
+2. <a href="https://disk.yandex.ru/i/d1bfZE99dS-Bcg">[2]: Control + Mqtt</a>
+
