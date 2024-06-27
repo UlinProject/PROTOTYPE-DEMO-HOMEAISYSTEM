@@ -38,7 +38,10 @@ This project aims to replicate the functionality of Yandex's Alice smart speaker
 
 ### Demonstration
 
-1. <a href="https://disk.yandex.ru/i/GBPuGDhcUAQvfA">[1]: Short info</a>
+1. <a href="https://disk.yandex.ru/i/XibAv-Iyw-NXUA">Short + Weather (Demo)</a>
 
-2. <a href="https://disk.yandex.ru/i/d1bfZE99dS-Bcg">[2]: Control + Mqtt</a>
+2. <a href="https://disk.yandex.ru/i/d1bfZE99dS-Bcg">Control + Mqtt (Demo)</a>
+
+3. <a href="https://disk.yandex.ru/i/GBPuGDhcUAQvfA">Short info (Demo)</a>
+
 
