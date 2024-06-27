@@ -26,6 +26,14 @@ This project aims to replicate the functionality of Yandex's Alice smart speaker
 
 • Amlogic A311D2 or equivalent (2021, 12 nm, 4x ARM Cortex-A73 @ 2.3 GHz, 4x ARM Cortex-A53 @ 2.0 GHz), 4Gb DDR4, 1Gbit Eth, 2.4Ghz/5Ghz
 
+### Demonstration (Video)
+
+1. <a href="https://disk.yandex.ru/i/XibAv-Iyw-NXUA">Short + Weather (Demo)</a>
+
+2. <a href="https://disk.yandex.ru/i/d1bfZE99dS-Bcg">Control + Mqtt (Demo)</a>
+
+3. <a href="https://disk.yandex.ru/i/GBPuGDhcUAQvfA">Short info (Demo)</a>
+
 ### Supported Platforms
 
 • Amlogic A311D2/A311D
@@ -35,13 +43,4 @@ This project aims to replicate the functionality of Yandex's Alice smart speaker
 • <i>Satisfactory ability to work on older platforms: based on Amlogic S912 (ARM Cortex-A53 x8 1.5Ghz(Unlocked)), 2GB DDR3, 1Gbit Eth, 2.4/5Ghz Wifi, CPU Mode; or Raspberry PI 4.</i>
 
 <img src="img/dev_device0.jpg" alt="mit" style="height: 135px; max-width: 100%;"/>
-
-### Demonstration
-
-1. <a href="https://disk.yandex.ru/i/XibAv-Iyw-NXUA">Short + Weather (Demo)</a>
-
-2. <a href="https://disk.yandex.ru/i/d1bfZE99dS-Bcg">Control + Mqtt (Demo)</a>
-
-3. <a href="https://disk.yandex.ru/i/GBPuGDhcUAQvfA">Short info (Demo)</a>
-
 
